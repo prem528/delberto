@@ -15,7 +15,6 @@ const HeroSection:React.FC = () => {
             Get your business online in 30 seconds with the #1 AI website builder and marketing platform.
         </p>
         </>
-        
         <div>
         <button className="  bg-[white] text-black text-xl font-semibold px-6 py-4 rounded-lg">Generate your website</button>
         <p className="font-medium ">Start for free. No credit card required.</p>
