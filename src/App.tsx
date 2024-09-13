@@ -1,7 +1,8 @@
-import NavBar from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
+import NavBar from "./components/Navbar";
 import './App.css'
 import './index.css'
+
  
 function App() {
 

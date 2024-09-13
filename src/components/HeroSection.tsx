@@ -4,7 +4,6 @@ import heroimage2 from '../assets/heroimage2.png'
 import heroimage3 from '../assets/heroimage3.png' 
 
 
-
 const HeroSection:React.FC = () => {
   return (
     <div className=" mx-auto max-w-7xl px-4 sm:px-6 lg:px-0">
